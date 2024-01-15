@@ -1,0 +1,11 @@
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\bin\Debug\FirstProject.exe.manifest
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\bin\Debug\FirstProject.application
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.exe.manifest
+D:\C# Study\Intro\Conseole\FirstProject\FirstProject\obj\Debug\FirstProject.application
